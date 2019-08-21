@@ -1,1 +1,2 @@
 # bashclass
+test again
